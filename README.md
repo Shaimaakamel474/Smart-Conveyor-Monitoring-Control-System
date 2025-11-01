@@ -72,7 +72,7 @@ It demonstrates key embedded system functionalities such as real-time speed meas
 
 ### 4.  Demonstration
 - **Recorded video** showing the simulation and all system functionalities.  
-- 🔗 **[Watch the Demo Video Here](https://github.com/user-attachments/assets/a957ba6e-2248-4abb-b364-6d6b64958bea)**
+- 🔗 **[Watch the Demo Video Here](https://github.com/user-attachments/assets/29352096-1593-499c-a323-a307811fce9b)**
 
 ---
 
